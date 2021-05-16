@@ -10,3 +10,8 @@
 
 ## Watch
 - https://cryptowat.ch/correlations
+
+## Multi-signature
+- `ETH`: https://gnosis.io/safe/
+- `BSC`: https://gnosis-safe.binance.org/
+
