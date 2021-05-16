@@ -15,6 +15,6 @@
 
 
 ## Multi-signature
+![image](https://user-images.githubusercontent.com/97060/118387050-1b7bdb80-b646-11eb-955c-9c14db79c04a.png)
 - `ETH`: https://gnosis.io/safe/
 - `BSC`: https://gnosis-safe.binance.org/
-
