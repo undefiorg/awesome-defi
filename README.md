@@ -2,8 +2,9 @@
 💵 An awesome list of deFi knowledge base
 
 ## Learn
-- https://cryptozombies.io/
-- https://eth.build/
+- `ETH`: https://cryptozombies.io/
+- `ETH`: https://eth.build/
+- `DeFi`: https://finematics.com/guide-to-decentralized-finance/
 
 ## Build
 - https://hardhat.org/
