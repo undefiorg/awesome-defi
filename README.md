@@ -1,10 +1,12 @@
 # awesome-defi
 💵 An awesome list of deFi knowledge base
 
-## Learn
+## Learn `DEV`
 - `ETH`: https://cryptozombies.io/
 - `ETH`: https://eth.build/
-- `DeFi`: https://finematics.com/guide-to-decentralized-finance/
+
+## Learn `Defi`
+- https://finematics.com/guide-to-decentralized-finance/
 
 ## Build
 - https://hardhat.org/
