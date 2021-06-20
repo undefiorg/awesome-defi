@@ -8,6 +8,10 @@
 ## Learn `Defi`
 - https://finematics.com/guide-to-decentralized-finance/
 
+## Crosschain
+- [Multichain dapp guide, standards, and best practices](https://andrecronje.medium.com/multichain-dapp-guide-standards-and-best-practices-8fabe2672c60)
+- [Deploying your own cross-chain token 101](https://andrecronje.medium.com/deploying-your-own-cross-chain-token-101-240420efd0d9)
+
 ## Build
 - https://hardhat.org/
 
