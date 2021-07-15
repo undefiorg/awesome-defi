@@ -4,7 +4,7 @@
 ## Learn 
 ### dApp
 - `React`: https://reactjs.org/
-- `GrapQL` : https://graphql.org/learn/
+- `GrapQL`: https://graphql.org/learn/
 
 ### Solidity
 - `ETH`: https://cryptozombies.io/
@@ -87,3 +87,11 @@
 
 ## NFT
 - https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
+
+---
+
+## Web Assembly (WASM)
+- `Terra`: https://docs.terra.money/contracts/tutorial/setup.html
+- `Solana`: https://docs.solana.com/developing/on-chain-programs/developing-rust
+- `Polkadot`: https://wiki.polkadot.network/docs/learn-wasm
+- `ETH`: [Ethereum WebAssembly (ewasm)](https://ewasm.readthedocs.io/en/mkdocs/)
