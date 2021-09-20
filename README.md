@@ -90,7 +90,7 @@
 
 ---
 
-## Web Assembly (WASM)
+## Rust
 - `Terra`: https://docs.terra.money/contracts/tutorial/setup.html
 - `Solana`: https://docs.solana.com/developing/on-chain-programs/developing-rust
 - `Polkadot`: https://wiki.polkadot.network/docs/learn-wasm
